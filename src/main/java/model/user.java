@@ -21,5 +21,5 @@ public class user {
     @Column(nullable = false)
     private String name;
     @Column(nullable = false)
-    private String name;
+    private String nim;
 }
